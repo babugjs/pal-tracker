@@ -8,6 +8,6 @@ public class PalTrackerController {
 
     @GetMapping ("/")
         public String sayHello(){
-        return "Hello";
+        return "hello";
         }
 }
